@@ -30,6 +30,7 @@ plt.style.use("classic")
 fig1, grafico = plt.subplots()
 grafico.pie(sizes, labels=labels, autopct='%1.1f%%', colors=("limegreen","cornflowerblue"))
 
+plt.savefig("VendidosXDevolvidos.png")
 #plt.show()
 
 #Qual/Quais a/s obra/s mais vendida?

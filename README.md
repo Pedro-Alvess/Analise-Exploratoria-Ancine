@@ -11,7 +11,7 @@ Segundo a IBM a EDA - análise exploratória de dados, é usada comumente por ci
 
 ### Remoção 
 
-O arquivo .csv original possui 1.265.342 linhas e 16 colunas, com um tamanho de 221.511 KB. Após a limpeza dos dados que não seriam utilizados nas análise, foi gerado um arquivo final com 4.052 linhas e 10 colunas, com um tamanho de 203 KB.
+O arquivo [.csv original](https://dados.gov.br/dataset/relatorio-de-distribuicao-de-obras-de-video-domestico-por-mes/resource/c9b830ef-026f-4da9-9d96-b73f68b08004) possui 1.265.342 linhas e 16 colunas, com um tamanho de 221.511 KB. Após a limpeza dos dados que não seriam utilizados nas análise, foi gerado um [arquivo final](https://github.com/Pedro-Alvess/Analise-Exploratoria-Ancine/blob/main/Tabela_de_Amostras.xlsx) com 4.052 linhas e 10 colunas, com um tamanho de 203 KB.
 
 ```
 #Remoção de todos os anos anteriores a 2021
